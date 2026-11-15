@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>UNDEAD RUSH</name>
+  <coder>Flashban9</coder>
+  <version>1.0</version>
+  <release_date>20261115000000</release_date>
+  <short_description>Low poly zombie horde shooter for the Wii</short_description>
+  <long_description>Fight your way through a street full of zombies and reach the safe room!
+Wiimote + Nunchuk: stick = move, pointer = aim, B = fire, A = reload, C = sprint, Z = switch weapon.
+Press HOME to leave back to the Wii menu.</long_description>
+</app>
